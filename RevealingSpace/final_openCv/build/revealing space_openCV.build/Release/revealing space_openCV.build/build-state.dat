@@ -1,0 +1,341 @@
+Trevealing space_openCV
+v7
+r1
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004D6EE4860000000000043820
+t1299113094
+s276512
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004DF9F71B0000000002B5C7A0
+t1308227355
+s45467552
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004B5FA7B40000000000022140
+t1264560052
+s139584
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004EE0342D000000000051BA20
+t1323316269
+s5356064
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004D76E3E6000000000000A5F0
+t1299637222
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004CC41EA700000000000005FF
+t1287921319
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004DEEB6D200000000002181A0
+t1307490002
+s2195872
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E2085850000000000782350
+t1310754181
+s7873360
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004DF9F7CC000000000017B260
+t1308227532
+s1552992
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004EDEBFD00000000000043360
+t1323220944
+s275296
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004F0F8C540000000000785970
+t1326419028
+s7887216
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/libs/opencv/lib/osx/openCV.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvFloatImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvShortImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxOpenCv.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/FreeImage/lib/osx/freeimage.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/GLee/lib/osx/GLee.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/fmodex/lib/osx/libfmodex.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/freetype/lib/osx/freetype.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/glut/lib/osx/GLUT.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/poco/lib/osx/CppUnit.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/poco/lib/osx/PocoFoundation.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/poco/lib/osx/PocoNet.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/poco/lib/osx/PocoUtil.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/poco/lib/osx/PocoXML.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../libs/rtAudio/lib/osx/rtAudio.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//openFrameworksDebug.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app
+t1331760505
+s102
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app/Contents/Info.plist
+t1331760092
+s1013
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app/Contents/MacOS/revealing space_openCV
+t1331760505
+s3992868
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app/Contents/PkgInfo
+t1331760092
+s8
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin/revealing space_openCV.app/Contents/Frameworks/GLUT.framework
+t1331760111
+s204
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin/revealing space_openCV.app/Contents/Resources/openFrameworks-Info.plist
+t1331760111
+s631
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/blob.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvColorImage.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvContourFinder.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvFloatImage.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvGrayscaleImage.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvImage.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvShortImage.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/revealing space_openCV.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/openFrameworks-Info.plist
+c000000004CE393560000000000000277
+t1289982806
+s631
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/blob.cpp
+c000000004F61067E000000000000011F
+t1331758718
+s287
+i"blob.h"
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/blob.h
+c000000004F61067F00000000000000CC
+t1331758719
+s204
+i"ofMain.h"
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/main.cpp
+c000000004F6105AA000000000000019E
+t1331758506
+s414
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/testApp.cpp
+c000000004F610DA30000000000001ACC
+t1331760547
+s6860
+i"testApp.h"
+
+N/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/testApp.h
+c000000004F6105E80000000000000598
+t1331758568
+s1432
+i"ofMain.h"
+i"ofxOpenCv.h"
+i<vector>
+i"blob.h"
+
+N/var/folders/rx/rxWGIFa6HYukrSMymgdDoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ckwuxsombvyrpddbsbmsttqprcfw/Carbon.h.gch
+t2
+s0
+
+NopenFrameworks-Info.plist
+c000000004CE393560000000000000277
+t1289982806
+s631
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/blob.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/blob.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/main.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvColorImage.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvContourFinder.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvFloatImage.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvFloatImage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvGrayscaleImage.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvImage.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvImage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/ofxCvShortImage.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/../../../addons/ofxOpenCv/src/ofxCvShortImage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/revealing space_openCV.build/Release/revealing space_openCV.build/Objects-normal/i386/testApp.o" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/src/testApp.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app/Contents/MacOS/revealing space_openCV" normal i386
+r0
+
+CPBXCp "bin/revealing space_openCV.app/Contents/Frameworks/GLUT.framework" ../../../libs/glut/lib/osx/GLUT.framework
+r0
+
+CPBXCp "bin/revealing space_openCV.app/Contents/Resources/openFrameworks-Info.plist" openFrameworks-Info.plist
+r0
+
+CPhaseScriptExecution "Run Script" "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/build/revealing space_openCV.build/Release/revealing space_openCV.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh"
+r0
+
+CProcessInfoPlistFile "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app/Contents/Info.plist" openFrameworks-Info.plist
+r0
+
+CProcessPCH++ /var/folders/rx/rxWGIFa6HYukrSMymgdDoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ckwuxsombvyrpddbsbmsttqprcfw/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/Suse 2TB/Studium/Master Architektur/03_WS 2011-2012/01_architectural machines/finale abgabe/final_openCv/bin//revealing space_openCV.app"
+r0
+
